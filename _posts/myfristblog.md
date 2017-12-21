@@ -1,11 +1,10 @@
 ---
-layout: post
 title: wow fantastic!
 ---
 
-**Hello everybody this is my frist blog
+>**Hello everybody this is my frist blog
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+>×××![_config.yml]({{ site.baseurl }}/images/doge.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+>×××我终于要有自己的博客啦
